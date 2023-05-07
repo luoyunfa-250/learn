@@ -15,3 +15,5 @@ source learning_log/bin/activate
 就进入虚拟环境了
 
 ##安装依赖
+在虚拟环境中键入：
+pip install -r requirements.txt
